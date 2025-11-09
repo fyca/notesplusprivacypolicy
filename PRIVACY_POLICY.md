@@ -1,6 +1,6 @@
 # Privacy Policy for NotesPlus
 
-**Last Updated:** January 2025
+**Last Updated:** November 2025
 
 This Privacy Policy describes how NotesPlus ("we", "our", or "the app") handles information when you use our Android application. We are committed to protecting your privacy and ensuring transparency about our data practices.
 
@@ -90,4 +90,5 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 ---
 
 This privacy policy is effective as of the last updated date and applies to all versions of the NotesPlus Android application.
+
 
